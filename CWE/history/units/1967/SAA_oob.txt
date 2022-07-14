@@ -1,0 +1,127 @@
+leader = {
+        name = "Sultan bin Abdulaziz"
+        date = 1967.1.1
+        type = land
+        personality = energetic 
+        background = toady 
+        prestige = 0.3
+}
+
+leader = {
+        name = "Faisal bin Abdulaziz"
+        date = 1967.1.1
+        type = land
+        personality = dauntless 
+        background = brownnoser 
+        prestige = 0.3
+}
+
+army = {
+	name = "Saudi Arabia 1st Support Army"
+	location = 911
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 1152
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 1153
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = infantry
+		home = 1154
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = infantry
+		home = 1155
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = infantry
+		home = 1156
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = bomber
+		home = 1157
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 1151
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 1151
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 1151
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 1151
+	}
+}
+
+army = {
+	name = "Saudi Arabia 2nd Support Army"
+	location = 1158
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 1159
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 1158
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 1160
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = infantry
+		home = 1151
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = infantry
+		home = 1151
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = bomber
+		home = 1151
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 1151
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 1151
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 1151
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 1151
+	}
+}

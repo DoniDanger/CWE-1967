@@ -1,0 +1,219 @@
+political_decisions = {
+
+egypt_pop_buff = {
+		potential = {
+			always = no
+		}
+		allow = {
+			always = no
+		}
+		effect = {
+			EGY = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = egyptian
+							has_pop_culture = arab
+						}
+					}
+					reduce_pop = 1.6
+				}
+			}
+			#EGY = { add_country_modifier = { name = egypt_mob = -1 } }
+			EGY = {
+				any_pop = {
+					limit = {
+						type = soldiers
+					}
+					reduce_pop = 1.1
+				}
+			}
+		}
+	}
+
+jordan_pop_buff = {
+		potential = {
+			always = no
+		}
+		allow = {
+			always = no
+		}
+		effect = {
+			JOR = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = levantine
+							has_pop_culture = arab
+							has_pop_culture = jordanian
+						}
+					}
+					reduce_pop = 1.6
+				}
+			}
+			EGY_922 = {
+				any_pop = {
+					reduce_pop = 5.2
+				}
+			}
+			EGY_917 = {
+				any_pop = {
+					reduce_pop = 4.6
+				}
+			}
+			JOR = {
+				any_pop = {
+					limit = {
+						type = soldiers
+					}
+					reduce_pop = 2.8
+				}
+			}
+		}
+	}
+
+syria_pop_buff = {
+		potential = {
+			always = no
+		}
+		allow = {
+			always = no
+		}
+		effect = {
+			SYR = {
+				any_pop = {
+					reduce_pop = 1.6
+				}
+			}
+			SYR = {
+				any_pop = {
+					limit = {
+						type = soldiers
+					}
+					reduce_pop = 1.1
+				}
+			}
+		}
+	}
+
+saudi_pop_buff = {
+		potential = {
+			always = no
+		}
+		allow = {
+			always = no
+		}
+		effect = {
+			SAA = {
+				any_pop = {
+					reduce_pop = 1.8
+				}
+			}
+			SAA = {
+				any_pop = {
+					limit = {
+						type = soldiers
+					}
+					reduce_pop = 1.05
+				}
+			}
+		}
+	}
+
+lebanon_pop_buff = {
+		potential = {
+			always = no
+		}
+		allow = {
+			always = no
+		}
+		effect = {
+			LEB = {
+				any_pop = {
+					reduce_pop = 1.7
+				}
+			}
+			LEB = {
+				any_pop = {
+					limit = {
+						type = soldiers
+					}
+					reduce_pop = 1.3
+				}
+			}
+		}
+	}
+
+iraq_pop_buff = {
+		potential = {
+			always = no
+		}
+		allow = {
+			always = no
+		}
+		effect = {
+			IRQ = {
+				any_pop = {
+					reduce_pop = 2.2
+				}
+			}
+			IRQ = {
+				any_pop = {
+					limit = {
+						type = soldiers
+					}
+					reduce_pop = 1.3
+				}
+			}
+		}
+	}
+
+israel_pop_buff = {
+		potential = {
+			always = no
+		}
+		allow = {
+			always = no
+		}
+		effect = {
+			ISR = {
+				any_pop = {
+					reduce_pop = 1.2
+				}
+			}
+			ISR = {
+				any_pop = {
+					limit = {
+						type = soldiers
+					}
+					reduce_pop = 1.5
+				}
+			}
+		}
+	}
+
+iran_pop_buff = {
+		potential = {
+			always = no
+		}
+		allow = {
+			always = no
+		}
+		effect = {
+			PER = {
+				any_pop = {
+					reduce_pop = 1.6
+				}
+			}
+			PER = {
+				any_pop = {
+					limit = {
+						type = soldiers
+					}
+					reduce_pop = 1.05
+				}
+			}
+		}
+	}
+	
+}

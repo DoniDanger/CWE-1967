@@ -1,0 +1,526 @@
+leader = {
+        name = "Moshe Dayan"
+        date = 1967.1.1
+        type = land
+        personality = imperious
+        background = brilliant_strategist
+        prestige = 0.6
+}
+
+leader = {
+        name = "Yitzhak Rabin"
+        date = 1967.1.1
+        type = land
+        personality = gallant
+        background = school_of_the_bayonet
+        prestige = 0.5
+}
+
+leader = {
+        name = "David Elazar"
+        date = 1967.1.1
+        type = land
+        personality = audacious
+        background = war_college
+        prestige = 0.4
+}
+
+army = {
+	name = "Israel's Jerusalem Army"
+	location = 3348
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr6"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr11"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr12"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr13"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr15"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr16"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr17"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr18"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr19"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr20"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr21"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr22"
+		type = mechanized_infantry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr23"
+		type = mechanized_infantry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr24"
+		type = mechanized_infantry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr25"
+		type = mechanized_infantry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr26"
+		type = mechanized_infantry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr27"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr28"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr29"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr30"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr31"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr32"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr33"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr34"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr35"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr36"
+		type = bomber
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr37"
+		type = bomber
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr38"
+		type = bomber
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr39"
+		type = bomber
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr40"
+		type = bomber
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr41"
+		type = bomber
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr42"
+		type = bomber
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr43"
+		type = bomber
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr44"
+		type = irregular
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr45"
+		type = irregular
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr46"
+		type = irregular
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr47"
+		type = irregular
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr6"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr11"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr12"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr13"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = mechanized_infantry
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = tank
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = tank
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = tank
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = tank
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = tank
+		home = 916
+	} 
+	regiment = {
+		name= "Regiment nr6"
+		type = tank
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 916
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = tank
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr11"
+		type = tank
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr12"
+		type = tank
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr13"
+		type = tank
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = tank
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr15"
+		type = tank
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr16"
+		type = tank
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr6"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr11"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr12"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr13"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr15"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr16"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr17"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr18"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr19"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr20"
+		type = cavalry
+		home = 919
+	}
+	regiment = {
+		name= "Regiment nr21"
+		type = cavalry
+		home = 919
+	}
+}

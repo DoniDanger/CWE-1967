@@ -1,0 +1,122 @@
+leader = {
+        name = "Ahmed Suidani"
+        date = 1967.1.1
+        type = land
+        personality = energetic 
+        background = toady 
+        prestige = 0.3
+}
+
+leader = {
+        name = "Hafez al-Assad"
+       date = 1967.1.1
+        type = land
+        personality = dauntless 
+        background = brownnoser 
+        prestige = 0.3
+}
+
+army = {
+	name = "Syria Damascus Army"
+	location = 902
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = tank
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 902
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+		home = 906
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = tank
+		home = 906
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 903
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 903
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 904
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 904
+	}
+}

@@ -1,0 +1,51 @@
+#3rd Arab Israeli War.txt
+name = "3rd Arab-Israeli War"
+1967.6.5 = {
+	add_attacker = ISR
+	add_defender = EGY
+	add_defender = JOR
+	add_defender = SYR
+	add_defender = LEB
+	add_defender = SAA
+	add_defender = IRQ
+	war_goal = {
+		casus_belli = acquire_state
+		state_province_id = 1756
+		actor = ISR
+		receiver = EGY
+	}
+	war_goal = {
+		casus_belli = acquire_core_state
+		state_province_id = 920
+		actor = ISR
+		receiver = EGY
+	}
+	war_goal = {
+		casus_belli = acquire_core_state
+		state_province_id = 917
+		actor = ISR
+		receiver = JOR
+	}
+	war_goal = {
+		casus_belli = acquire_core_state
+		state_province_id = 918
+		actor = ISR
+		receiver = JOR
+	}
+	war_goal = {
+		casus_belli = acquire_state
+		state_province_id = 2687
+		actor = ISR
+		receiver = SYR
+	}
+	war_goal = {
+		casus_belli = liberate_country
+		actor = EGY
+		country = PAL
+		receiver = ISR
+	}	
+}
+1967.6.11 = {
+	rem_defender = ISR
+	rem_attacker = EGY
+}

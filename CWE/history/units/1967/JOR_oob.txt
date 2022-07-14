@@ -1,0 +1,127 @@
+leader = {
+        name = "Abdul Munim Riad"
+       date = 1967.1.1
+        type = land
+        personality = energetic 
+        background = toady 
+        prestige = 0.3
+}
+
+leader = {
+        name = "Zaid ibn Shaker"
+        date = 1967.1.1
+        type = land
+        personality = dauntless 
+        background = brownnoser 
+        prestige = 0.3
+}
+
+army = {
+	name = "Jordan West Bank Army"
+	location = 918
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 908
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 908
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 908
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 908
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+		home = 909
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = tank
+		home = 909
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 909
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 910
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 910
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 910
+	}
+}
+
+army = {
+	name = "Jordan Amman Army"
+	location = 908
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 910
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 911
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 911
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 911
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+		home = 911
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = tank
+		home = 911
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 922
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 922
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 917
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 917
+	}
+}

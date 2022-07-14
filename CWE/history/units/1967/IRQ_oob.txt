@@ -1,0 +1,182 @@
+leader = {
+        name = "Abdel Emir Yarallah"
+        date = 1967.1.1
+        type = land
+        personality = energetic 
+        background = toady 
+        prestige = 0.3
+}
+
+leader = {
+        name = " Mustafa Al-Kadhimi"
+        date = 1967.1.1
+        type = land
+        personality = dauntless 
+        background = brownnoser 
+        prestige = 0.3
+}
+
+army = {
+	name = "Iraq Baghdad Army"
+	location = 926
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 926
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 926
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 926
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 926
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+		home = 926
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = tank
+		home = 926
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 926
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 926
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 926
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 928
+	}
+}
+
+army = {
+	name = "Iraq Rutbah Army"
+	location = 931
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 930
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 931
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 931
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 932
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+		home = 932
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = tank
+		home = 933
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 933
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 934
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 934
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 926
+	}
+}
+
+army = {
+	name = "Iraq Mosul Army"
+	location = 924
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 923
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 923
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 923
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 923
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+		home = 924
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = tank
+		home = 924
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 925
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 927
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 928
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 929
+	}
+}

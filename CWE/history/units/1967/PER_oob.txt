@@ -1,0 +1,227 @@
+leader = {
+        name = "Khalilollah Rezai"
+        date = 1967.1.1
+        type = land
+        personality = energetic 
+        background = toady 
+        prestige = 0.3
+}
+
+leader = {
+        name = "Boyvacha Suleiman"
+        date = 1967.1.1
+        type = land
+        personality = dauntless 
+        background = brownnoser 
+        prestige = 0.3
+}
+
+army = {
+	name = "Persia Tehran Army"
+	location = 1121
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 1121
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 1121
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 1121
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 1121
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 1121
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 1113
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 1113
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 1113
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 1114
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 1114
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = tank
+		home = 1115
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = tank
+		home = 1115
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = tank
+		home = 1116
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = tank
+		home = 1116
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = tank
+		home = 1112
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = cavalry
+		home = 1111
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = cavalry
+		home = 1108
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = cavalry
+		home = 1117
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = cavalry
+		home = 1117
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = cavalry
+		home = 1118
+	}
+}
+
+army = {
+	name = "Persia Tabriz Army"
+	location = 1108
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 1118
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 1119
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 1119
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 1120
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 1120
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 1122
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 1122
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 1123
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 1124
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 1124
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = tank
+		home = 1125
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = tank
+		home = 1125
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = tank
+		home = 1126
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = tank
+		home = 1126
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = tank
+		home = 1127
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = cavalry
+		home = 1127
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = cavalry
+		home = 1128
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = cavalry
+		home = 1128
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = cavalry
+		home = 1129
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = cavalry
+		home = 1129
+	}
+}

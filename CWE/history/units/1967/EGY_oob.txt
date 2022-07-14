@@ -1,0 +1,177 @@
+leader = {
+        name = "Abdel Hakim Amer"
+       date = 1967.1.1
+        type = land
+        personality = energetic 
+        background = toady 
+        prestige = 0.3
+}
+
+leader = {
+        name = "Mohamed Fawzi"
+       date = 1967.1.1
+        type = land
+        personality = dauntless 
+        background = brownnoser 
+        prestige = 0.3
+}
+
+army = {
+	name = "Egypt Cairo Army"
+	location = 1745
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 1745
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 1745
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 1745
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 1746
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+		home = 1747
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = tank
+		home = 1748
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 1749
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 1750
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 1751
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 1752
+	}
+}
+
+army = {
+	name = "Egypt Sinai Army"
+	location = 1756
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 1753
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 1754
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 1755
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 1756
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+		home = 1757
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = tank
+		home = 1758
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 1759
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 1760
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 1761
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 1762
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 1763
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 1764
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 1765
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 1766
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+		home = 1767
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = tank
+		home = 1768
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 1769
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 1770
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 1771
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 1772
+	}
+}

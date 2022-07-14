@@ -1,0 +1,72 @@
+leader = {
+        name = "Yasser Arafat"
+       date = 1967.1.1
+        type = land
+        personality = energetic 
+        background = toady 
+        prestige = 0.3
+}
+
+leader = {
+        name = "George Habash"
+        date = 1967.1.1
+        type = land
+        personality = dauntless 
+        background = brownnoser 
+        prestige = 0.3
+}
+
+army = {
+	name = "Lebanon Beirut Army"
+	location = 913
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+		home = 912
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+		home = 912
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+		home = 912
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+		home = 913
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+		home = 913
+	}
+	regiment = {
+		name= "Regiment nr14"
+		type = tank
+		home = 913
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+		home = 913
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+		home = 914
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+		home = 914
+	}
+	regiment = {
+		name= "Regiment nr10"
+		type = cavalry
+		home = 914
+	}
+}
